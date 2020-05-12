@@ -1,0 +1,19 @@
+{
+  "default": {
+    "format": "§l§bPLAYER§r§c {name} §e» §r{message}"
+  },
+  "mod": {
+    "format": "§l§6MOD§r§c {name} §e» §r{message}"
+  },
+  "owner": {
+    "format": "§l§4OWNER§r§c {name} §e» §r{message}"
+  },
+  "legend": {
+  },
+  "legend+": {
+  },
+  "famous": {
+  },
+  "famous+": {
+  }
+}

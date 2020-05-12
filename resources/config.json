@@ -1,0 +1,19 @@
+{
+  "settings": {
+    "disabled": false,
+    "anti-abuse": true
+  },
+  "commands": {
+    "admintools": true,
+    "gmute": false,
+    "host": false,
+    "login": false,
+    "pvp": false,
+    "register": false,
+    "scenario": false,
+    "setgroup": false,
+    "spectate": false,
+    "tpall": false,
+    "world": false
+  }
+}
